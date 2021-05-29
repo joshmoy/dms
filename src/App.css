@@ -1,0 +1,10 @@
+.activeRoute .main-box {
+  background-color: #E8F0FE !important;
+  transition: 0.5s;
+  border-radius: 20.0281px
+}
+
+.activeRoute p {
+  color: #053582 !important;
+  transition: 0.5s;
+}
